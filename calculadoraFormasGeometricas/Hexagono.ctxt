@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hexagono
+comment1.params=lado
+comment1.target=Hexagono(double)
+comment2.params=
+comment2.target=double\ getLado()
+numComments=3

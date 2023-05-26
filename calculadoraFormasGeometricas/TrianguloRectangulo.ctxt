@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=TrianguloRectangulo
+comment1.params=base\ altura
+comment1.target=TrianguloRectangulo(double,\ double)
+numComments=2
